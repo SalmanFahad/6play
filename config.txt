@@ -1,5 +1,3 @@
-token=NDk3Mjg2MDczNzM1NTc3NjAw.Dr9_Fw.5YruosS2_KJPRprVAFV-YgIOcm0
+token=NDk3Mjg2MDczNzM1NTc3NjAw.DsM6uQ.SbmBAPIIYcKH6InP2xePzZ0Fs1w
 owner=377727851190943744
 prefix=6
-stayinchannel=true
-songinstatus=true
